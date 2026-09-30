@@ -74,7 +74,7 @@ This notebook contains the analysis most closely related to the results presente
 The complete Master's Thesis is included as a PDF in the repository:
 
 ```text
-Master_Thesis.pdf
+MT_NoisyQKD.pdf
 ```
 
 The thesis provides the theoretical background, mathematical formulation, methodology, interpretation of the results, and complete discussion of the final study.
